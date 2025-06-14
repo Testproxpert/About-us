@@ -45,7 +45,7 @@ At TestPro Xpert, we specialize in comprehensive **manual testing** and **automa
 ## Contact
 
 For more information or custom testing solutions, reach out to us at:  
-📧 testproxpert@testproxpert.com  
+📧 testproxpert@yahoo.com  
 🌐 [www.testproxpert.com](https://www.testproxpert.com)
 
 ---
