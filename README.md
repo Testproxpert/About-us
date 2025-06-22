@@ -36,7 +36,7 @@ At TestPro Xpert, we specialize in comprehensive **manual testing** and **automa
   • Integration with bug tracking tools like JIRA for seamless issue management;  
   • Continuous feedback loops between QA and development teams.  
 
-<div align="right">
+<div align="left">
 
 **⭐ reporting and traceability for every test cycle ⭐**
 
