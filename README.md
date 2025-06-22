@@ -26,7 +26,7 @@ At TestPro Xpert, we specialize in comprehensive **manual testing** and **automa
   Robust automation solutions for faster and reliable testing:  
   • UI Automation with Selenium — cross-browser testing using Python or Java;  
   • API Testing with Postman — creating and running API test collections;  
-  • Continuous Integration — integrating tests into CI/CD pipelines (GitHub Actions, Jenkins); 
+  • Continuous Integration — integrating tests into CI/CD pipelines (GitHub Actions, Jenkins) ; 
   • Test Maintenance — updating and optimizing automated test suites.  
 
 - 📊 **Detailed Reporting & Traceability:**  
