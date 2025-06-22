@@ -50,5 +50,5 @@ For more information or custom testing solutions, reach out to us at:
 
 ---
 
-*TestPro Xpert – Quality you can trust.*
+*TestPro Xpert – Focused on Quality, Efficiency & Clean Releases.*
 
