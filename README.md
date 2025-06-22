@@ -38,7 +38,7 @@ At TestPro Xpert, we specialize in comprehensive **manual testing** and **automa
 
 <div align="left">
 
-**⭐ reporting and traceability for every test cycle ⭐**
+**⭐ reporting and traceability for every Test cycle ⭐**
 
 </div>
 
