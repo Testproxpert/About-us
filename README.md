@@ -1,5 +1,5 @@
 # TestPro Xpert
-QA Specialist | Manual & Automation Testing | Focused on quality, efficiency; clean releases.
+QA Specialist | Manual & Automation Testing | Focused on Quality, Efficiency & Clean Releases.
 # TestPro Xpert – Manual & Automated Testing Solutions
 
 Welcome to **TestPro Xpert**, your trusted partner in delivering high-quality software through expert manual and automated testing services.
