@@ -37,9 +37,10 @@ At TestPro Xpert, we specialize in comprehensive **manual testing** and **automa
   • Continuous feedback loops between QA and development teams.  
 
 <div align="right">
-**⭐ reporting and traceability for every test cycle ⭐**
-</div>
 
+**⭐ reporting and traceability for every test cycle ⭐**
+
+</div>
 
 ---
 
