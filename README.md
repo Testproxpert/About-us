@@ -16,25 +16,25 @@ At TestPro Xpert, we specialize in comprehensive **manual testing** and **automa
 
 - ✅ **Manual Testing:**  
   Comprehensive manual testing services including:  
-  • Functional Testing — validating features against requirements  
-  • Exploratory Testing — discovering hidden issues through exploratory sessions  
-  • Regression Testing — ensuring new changes don't break existing functionality  
-  • Smoke Testing — quick verification of core functionalities before full testing  
-  • User Acceptance Testing (UAT) — collaborating with stakeholders to validate readiness  
+  • Functional Testing — validating features against requirements; 
+  • Exploratory Testing — discovering hidden issues through exploratory sessions;  
+  • Regression Testing — ensuring new changes don't break existing functionality;  
+  • Smoke Testing — quick verification of core functionalities before full testing;  
+  • User Acceptance Testing (UAT) — collaborating with stakeholders to validate readiness.  
 
 - ⚙️ **Automated Testing:**  
   Robust automation solutions for faster and reliable testing:  
-  • UI Automation with Selenium — cross-browser testing using Python or Java  
-  • API Testing with Postman — creating and running API test collections  
-  • Continuous Integration — integrating tests into CI/CD pipelines (GitHub Actions, Jenkins)  
-  • Test Maintenance — updating and optimizing automated test suites  
+  • UI Automation with Selenium — cross-browser testing using Python or Java;  
+  • API Testing with Postman — creating and running API test collections;  
+  • Continuous Integration — integrating tests into CI/CD pipelines (GitHub Actions, Jenkins); 
+  • Test Maintenance — updating and optimizing automated test suites.  
 
 - 📊 **Detailed Reporting & Traceability:**  
   Ensuring transparency and effective communication through:  
-  • Clear, actionable bug reports with reproduction steps and screenshots  
-  • Test coverage reports showing executed vs pending test cases  
-  • Integration with bug tracking tools like JIRA for seamless issue management  
-  • Continuous feedback loops between QA and development teams  
+  • Clear, actionable bug reports with reproduction steps and screenshots;  
+  • Test coverage reports showing executed vs pending test cases;  
+  • Integration with bug tracking tools like JIRA for seamless issue management;  
+  • Continuous feedback loops between QA and development teams.  
 
 ---reporting and traceability for every test cycle
 
